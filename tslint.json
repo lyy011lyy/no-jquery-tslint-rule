@@ -1,0 +1,10 @@
+{
+    "rulesDirectory": [
+        "dist/src"
+    ],
+    "rules": {
+        "no-jquery": [ true,
+            "trim"
+        ]
+  }
+}

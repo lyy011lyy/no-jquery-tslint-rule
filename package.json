@@ -1,0 +1,22 @@
+{
+  "name": "no-jquery-tslint-rule",
+  "version": "1.0.0",
+  "description": "This is a custom tslint rule to prevent developers from using jQuery",
+  "main": "tslint.json",
+  "scripts": {
+    "build": "tsc --outDir ./dist"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "author": "Yaoyao Lin",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "5.10.0",
+    "typescript": "2.8.1"
+  },
+  "peerDependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.1"
+  }
+}
