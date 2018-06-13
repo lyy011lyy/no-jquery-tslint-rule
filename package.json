@@ -1,6 +1,6 @@
 {
   "name": "no-jquery-tslint-rule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a custom tslint rule to prevent developers from using jQuery",
   "main": "tslint.json",
   "scripts": {
