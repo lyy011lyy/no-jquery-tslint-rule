@@ -10,6 +10,7 @@
     "tslint"
   ],
   "author": "Yaoyao Lin",
+  "repository": "https://github.com/lyy011lyy/no-jquery-tslint-rule.git/",
   "license": "MIT",
   "devDependencies": {
     "tslint": "5.10.0",
